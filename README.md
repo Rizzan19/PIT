@@ -10,3 +10,6 @@
 | 5 |    Reddit     |     https://github.com/reddit-archive/reddit/wiki/OAuth2                                                                                |     https://praw.readthedocs.io/en/latest/getting_started/authentication.html    |
 | 6 |     Twitter    |     https://developer.twitter.com/en/docs/authentication/oauth-2-0                                                       |     https://developer.twitter.com/en/docs/twitter-api/tools-and-libraries/v2                                                     |
 | 7 |     Mail.ru    |     https://help.mail.ru/developers/oauth                                                      |                      https://help.mail.ru/developers/oauth/button https://python-social-                                                    |
+
+### [Реализация дополнительной стратегии oAuth 2.0](https://github.com/Rizzan19/PIT/tree/main/passport_yandex)
+
