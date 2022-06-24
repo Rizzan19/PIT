@@ -8,7 +8,7 @@
 
 ### [4. Docker-Compose First Look](https://youtu.be/yESiZkWOSco)
 
-### 5. LetsEncrypt & Nginx Proxy
+### [5. LetsEncrypt & Nginx Proxy](https://github.com/Rizzan19/PIT/blob/main/%D0%93%D0%B2%D0%BE%D0%B7%D0%B4%D0%B5%D0%B2%20%D0%92.%20%D0%92.%20LetsEncrypt%20%26%20Nginx%20Proxy.pdf)
 
 ### 6. Настройка подключения к виртуальной частной сети
 
